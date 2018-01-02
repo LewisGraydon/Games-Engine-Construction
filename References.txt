@@ -1,0 +1,8 @@
+Space background obtained from: https://opengameart.org/content/space-background-1
+Ships from: https://opengameart.org/content/space-ship-construction-kit
+Lasers: https://opengameart.org/content/lasers-and-beams
+explosion sound from: https://opengameart.org/content/explosion-somewhere-far
+explosion from: https://opengameart.org/content/pixel-explosion-12-frames
+
+HAPI Engine created by Keith Ditchburn
+
